@@ -1,6 +1,4 @@
-**BING DORKER**
-
-**tested On Windows10**<br>
+**BING DORKER - JEMBUT EDITION DORKER**
 **Python Version 2.7 Bing Dorker File**<br>
 **Python Version 3.8 IP BULK JEMBUT EDITION**
 🖼️ **Screenshots** 🖼️
