@@ -1,7 +1,7 @@
 **BING DORKER**
 
-**tested On Windows10**
-**Python Version 2.7 Bing Dorker File**
+**tested On Windows10**<br>
+**Python Version 2.7 Bing Dorker File**<br>
 **Python Version 3.8 IP BULK JEMBUT EDITION**
 <blockquote>git clone https://github.com/fstreitzia/Bing-Dorker.git</blockquote>.
 <blockquote>pip install requests</blockquote>.
