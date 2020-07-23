@@ -1,7 +1,13 @@
 **BING DORKER**
 
-
-<blockquote>Git </blockquote>.
+**tested On Windows10**
+**Python Version 2.7 Bing Dorker File**
+**Python Version 3.8 IP BULK JEMBUT EDITION**
+<blockquote>git clone https://github.com/fstreitzia/Bing-Dorker.git</blockquote>.
+<blockquote>pip install requests</blockquote>.
+<blockquote>pip install bs4</blockquote>.
+<blockquote>pip install color rama</blockquote>.
+<blockquote>pip install </blockquote>.
 
 
 
