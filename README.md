@@ -12,8 +12,8 @@
 <blockquote>git clone https://github.com/fstreitzia/Bing-Dorker.git</blockquote>.
 <blockquote>pip install requests</blockquote>.
 <blockquote>pip install bs4</blockquote>.
-<blockquote>pip install color rama</blockquote>.
- 
+<blockquote>pip install colorama</blockquote>.
+
 | Tools | Bing Dorker | Zone-H Grabber   | Reverse IP  | Grab IP Bulk | 
 |---------------------------------- |---------------|---------------|----------------|-----------|
 | <ul><li>[x] Download </li></ul>       | <ul><li>[x] Python </li></ul>        | <ul><li>[X] Version </li></ul> | <ul><li>[x] 2.7 </li></ul> | <ul><li>[X] 3.8 </li></ul> |
