@@ -2,9 +2,9 @@
 <br>
 **Python Version 2.7 Bing Dorker File**<br>
 **Python Version 3.8 IP BULK JEMBUT EDITION**<br>
-**ICQ : icq.im/Jarots**
+**ICQ : icq.im/Jarot**
 
-🖼️ **Screenshots** 🖼️<br>
+🖼️ **Screenshotss** 🖼️<br>
 **REPORT BUG IN ISSUES**<br>
 **[JEMBUT ISSUES](https://github.com/fstreitzia/Bing-Dorker/issues/new)**
 <img src="https://scontent-sin6-1.xx.fbcdn.net/v/t1.15752-9/116195177_329625721745638_8857232788391062012_n.png?_nc_cat=104&_nc_sid=b96e70&_nc_eui2=AeH2tGfJRUwxtGq7r7Fkd68gJqMRKTzpGrQmoxEpPOkatHTVrQA71LsILY1hmFLqW23wrW2iX5MMD0FbuuAnqrhs&_nc_ohc=KaqmFrjIK5kAX8-SKyx&_nc_oc=AQkskhz5TQYLlHN5Jea6lg3NL5yOTT1cVGntW2uDECDR1hRDyhq-q5sVsi2CwSuGnlw&_nc_ht=scontent-sin6-1.xx&oh=b7ca5ec4c897fdb95df2564836b7f49e&oe=5F40108B"><center><br>
