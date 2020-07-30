@@ -2,8 +2,9 @@
 <br>
 **Python Version 2.7 Bing Dorker File**<br>
 **Python Version 3.8 IP BULK JEMBUT EDITION**<br>
-**ICQ : icq.im/Jarot**
-
+**ICQ : icq.im/Jarot**<br>
+**[Python Download 2.7 For BING DORKER](https://www.python.org/download/releases/2.7/)**<br>
+**[Python Download 3.8 For JEMBUT-EDITION Grabber BUlk IP](https://www.python.org/download/releases/3.0/)**<br>
 🖼️ **Screenshotss** 🖼️<br>
 **REPORT BUG IN ISSUES**<br>
 **[JEMBUT ISSUES](https://github.com/fstreitzia/Bing-Dorker/issues/new)**
